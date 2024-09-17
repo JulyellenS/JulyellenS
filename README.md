@@ -18,9 +18,8 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
 <div>
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JulyellenS&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyellenS&count_private=true&hide_progress=true&theme=midnight-purple">
-        <img height="140em" widht ="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyellenS&count_private=true&theme=midnight-purple">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulyellenS&count_private=true&show_icons=true&theme=midnight-purple">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyellenS&count_private=true&hide_progress=true&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
